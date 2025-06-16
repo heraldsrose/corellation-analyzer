@@ -1,0 +1,6 @@
+group,concentration,behavior_metric,physiological_metric
+control,0,2.3,1.2
+control,0,2.1,1.1
+experiment,0.5,3.4,2.0
+experiment,1.0,4.1,2.8
+experiment,1.5,4.8,3.3

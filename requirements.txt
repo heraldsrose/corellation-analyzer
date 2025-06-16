@@ -1,0 +1,9 @@
+pandas
+numpy
+scipy
+seaborn
+matplotlib
+plotly
+jinja2
+pdfkit
+statsmodels
